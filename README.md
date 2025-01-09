@@ -1,0 +1,2 @@
+# pages
+pages.dev
